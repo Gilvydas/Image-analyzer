@@ -14,7 +14,7 @@ git clone https://github.com/Gilvydas/image-analyzer.git
 Jump up to the cloned project folder and in the terminal type
 
 ```
-composer require google/cloud-vision.
+composer require google/cloud-vision
 ```
 
 Start xamp control panle and start Apache server and in yur browser type 
