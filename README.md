@@ -23,3 +23,4 @@ Start xamp control panle and start Apache server and in yur browser type
 ```
 http://localhost/image-analyzer/index.php
 ```
+You will need to provide an API key in APIkey.json
